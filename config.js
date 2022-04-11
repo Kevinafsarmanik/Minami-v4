@@ -22,10 +22,10 @@ global.APIKeys = {
 }
 
 // Other
-global.owner = ['6281223918622'] //GANTI NOMOR KALIAN
-global.premium = ['6281223918622'] //GANTI NOMOR KALIAN
-global.packname = 'MinamiBot MD' //TERSERAH GANTI APA GAK
-global.author = 'LoliBot MD' //TERSERAH
+global.owner = ['6283131214121'] //GANTI NOMOR KALIAN
+global.premium = ['6283131214121'] //GANTI NOMOR KALIAN
+global.packname = 'KENMA MD' //TERSERAH GANTI APA GAK
+global.author = 'KENMABot MD' //TERSERAH
 global.sessionName = 'lolibot' //JANGAN DIGANTI KALO GAK MAU EROR
 global.prefa = ['','!','.','🐦','🐤','🗿'] //JANGAN DI GANTI
 global.sp = '⭔'
@@ -34,11 +34,11 @@ global.mess = {
     admin: 'Fitur Khusus Admin Group Bang!',
     botAdmin: 'Jadiin Admin Dulu Lah Bot Nya Tolol Kali Kau Bang',
     eror: 'Yah Eror kak',
-    owner: 'Fitur Khusus Riyo XDZ',
+    owner: 'Fitur Khusus Kevin afsar ✨',
     group: 'Fitur Digunakan Hanya Untuk Group!',
     private: 'Fitur Digunakan Hanya Untuk Private Chat!',
     bot: 'Fitur Khusus Pengguna Nomor Bot',
-    wait: 'Sabar Loading! Orang Sabar Disayang Janda...',
+    wait: 'LOADING.....',
     endLimit: 'Limit Harian Anda Telah Habis, Limit Akan Direset Setiap Jam 12',
 }
 global.limitawal = {
